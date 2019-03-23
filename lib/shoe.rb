@@ -1,5 +1,5 @@
 
 
 class Show(brand)
-  
+
 end
