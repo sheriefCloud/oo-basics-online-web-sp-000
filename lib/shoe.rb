@@ -1,5 +1,5 @@
 
 
-class Show(brand)
+class shoe(brand)
 
 end
