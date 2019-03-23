@@ -1,6 +1,6 @@
 
 
-class shoe
+class Shoe
   attr_reader :brand
   attr_accessor
 
